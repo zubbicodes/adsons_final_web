@@ -36,7 +36,7 @@ const workflowSteps: WorkflowStep[] = [
     description:
       'Carefully selecting high-quality raw materials that meet our strict standards for excellence and sustainability.',
     icon: Package,
-    image: '/workflow/12.webp',
+    image: '/workflow/raw.webp',
     accent: '#3b82f6',
     details: [
       'Quality inspection of incoming materials',
@@ -83,7 +83,7 @@ const workflowSteps: WorkflowStep[] = [
     description:
       'Secure and sustainable packaging solutions with eco-friendly materials and custom options.',
     icon: Box,
-    image: '/workflow/14.webp',
+    image: '/workflow/packing.webp',
     accent: '#f59e0b',
     details: [
       'Eco-friendly packaging materials',
@@ -111,7 +111,7 @@ const workflowSteps: WorkflowStep[] = [
     description:
       'Thorough final quality check, documentation review, and packaging integrity verification before shipping.',
     icon: ClipboardCheck,
-    image: '/workflow/9.webp',
+    image: '/workflow/check.webp',
     accent: '#06b6d4',
     details: [
       'Quality check & documentation review',
@@ -125,7 +125,7 @@ const workflowSteps: WorkflowStep[] = [
     description:
       'Efficient global logistics network with real-time tracking and on-time delivery guarantee.',
     icon: Truck,
-    image: '/workflow/19.webp',
+    image: '/workflow/shipping.webp',
     accent: '#22c55e',
     details: [
       'Global shipping network',

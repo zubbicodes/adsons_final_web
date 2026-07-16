@@ -122,7 +122,7 @@ const workflowSlides = [
     preTitle: 'QUALITY FROM THE START',
     title: 'Raw Material\nSelection',
     description: 'Carefully selecting high-quality raw materials that meet our strict standards for excellence.',
-    image: '/workflow/12.webp',
+    image: '/workflow/raw.webp',
   },
   {
     id: 2,
@@ -164,7 +164,7 @@ const workflowSlides = [
     preTitle: 'PACKAGING',
     title: 'Secure and\nSustainable\nPackaging',
     description: 'Secure and sustainable packaging solutions with eco-friendly materials and custom solutions.',
-    image: '/workflow/14.webp',
+    image: '/workflow/packing.webp',
   },
   {
     id: 5,
@@ -178,14 +178,14 @@ const workflowSlides = [
     preTitle: 'FINAL INSPECTION',
     title: 'Thorough\nFinal Check',
     description: 'Thorough final check before shipping with comprehensive quality verification.',
-    image: '/workflow/18.webp',
+    image: '/workflow/check.webp',
   },
   {
     id: 7,
     preTitle: 'SHIPPING & DELIVERY',
     title: 'Efficient\nLogistics and\nReliable Delivery',
     description: 'Efficient logistics and reliable delivery with global shipping network and real-time tracking.',
-    image: '/workflow/19.webp',
+    image: '/workflow/shipping.webp',
   },
 ];
 
